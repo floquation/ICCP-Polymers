@@ -1,0 +1,10 @@
+	512		num_threads
+	100		maximum polymer length
+	750		maximum number of polymers
+	6		num_thetha
+	1		temperature
+	2		alpha for UpLim
+	0.5		alpha for LowLim
+	0.8		maximum length of polymers after which duplication no longer is allowed
+	0.89	LJ: sigma
+	
